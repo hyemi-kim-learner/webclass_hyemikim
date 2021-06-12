@@ -53,5 +53,19 @@
 > heading -> h
 > h1 ~ h6 "h1이 가장 큰 제목"
 
+###HTML 기본 구조
+'''
+<!DOCTYPE html> - 1
+<html> - 2
+  <head> - 3
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body> -4
+    <p>This is my page</p>
+  </body>
+</html>
+'''
+
 
 
