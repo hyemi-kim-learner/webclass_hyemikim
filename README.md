@@ -58,14 +58,33 @@
 <!DOCTYPE html> - 1
 <html> - 2
   <head> - 3
-    <meta charset="utf-8">
-    <title>My test page</title>
+    <meta charset="utf-8"> - 4
+    <title>My test page</title> - 5
   </head>
-  <body> -4
+  <body> - 6
     <p>This is my page</p>
   </body>
 </html>
+
+'''
+1. 웹 문서의 버전 : HTML5
+2. HTML 문서의 가장 바깥쪽 요소
+3. 웹 문서를 설명하는 정보가 담기는 영역 요소 *실제 컨텐츠는 아니지만 해당 문서를 설명하는 정보
+4. 웹 문서의 정보 표시하는 요소
+5. 웹 문서의 제목을 표시하는 요소
+6. 웹 문서의 콘텐츠 요소들이 담기는 영역 요소
+
+
+###단락태그
+
+> 단락 표시
+> 단락과 단락 사이를 구분하는 수평선
+```
+<hr> - Horizontal Rule
+```
+> 단락을 구분하지 않고 줄 바꿈만 하는 태그
 '''
 
-
+<br> - Break
+```2
 
